@@ -1,0 +1,24 @@
+{
+  "moods": {
+    "happy": {
+      "quotes": [
+        "Happiness looks good on you",
+        "Smile more every day"
+      ],
+      "activities": [
+        "Go for a walk",
+        "Call a friend"
+      ]
+    },
+    "sad": {
+      "quotes": [
+        "This will pass",
+        "Stay strong"
+      ],
+      "activities": [
+        "Listen to music",
+        "Take rest"
+      ]
+    }
+  }
+}
