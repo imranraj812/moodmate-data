@@ -1,1 +1,26 @@
-
+{
+  "quotes": [
+    "This will pass",
+    "You are stronger than you think",
+    "Better days are coming",
+    "It’s okay to feel low",
+    "You are not alone",
+    "Take your time to heal",
+    "Every storm ends",
+    "Stay strong, keep going",
+    "Pain makes you stronger",
+    "Healing takes time"
+  ],
+  "activities": [
+    "Listen to soft music",
+    "Take rest",
+    "Write your thoughts",
+    "Talk to someone you trust",
+    "Sleep early",
+    "Watch calming videos",
+    "Drink water and relax",
+    "Go for a short walk",
+    "Stay away from stress",
+    "Meditate quietly"
+  ]
+}
